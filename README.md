@@ -7,3 +7,7 @@ Parking lot
   > should not allow more vehicles then allocated space for each catogory space for each category 
   > change should be hourly bonus
 
+
+  > changes done in qa
+  
+
